@@ -3,4 +3,4 @@ matplot
 seaborn
 streamlit
 pandas
-option_menu
+streamlit_option_menu
